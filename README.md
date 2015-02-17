@@ -7,6 +7,7 @@ imagemagick
 
 キャプチャしたいURLをコピーしてください
 クリップボードに複数のURLがある場合は複数ページキャプチャされます
+
 _おすすめツール https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk_
 
 その状態でcasper.commandを実行
